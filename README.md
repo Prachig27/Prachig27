@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Gandhi</h1>
 <h3 align="center">I am a Developer on a Journey to Product Management | Building with Code, Thinking with Strategy</h3>
 
-- 📫 How to reach me **pg20022712@gmail.com**
+ 📫 How to reach me **pg20022712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
